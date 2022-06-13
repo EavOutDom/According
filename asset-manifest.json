@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/04-According/static/css/main.cccb43e0.css",
+    "main.js": "/04-According/static/js/main.1d5d738b.js",
+    "index.html": "/04-According/index.html",
+    "main.cccb43e0.css.map": "/04-According/static/css/main.cccb43e0.css.map",
+    "main.1d5d738b.js.map": "/04-According/static/js/main.1d5d738b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cccb43e0.css",
+    "static/js/main.1d5d738b.js"
+  ]
+}
